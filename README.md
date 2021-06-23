@@ -1,7 +1,7 @@
-### Olá! 👋
+### Hi! 👋
 
-Me chamo Pedro, tenho 22 anos.
+I'm Pedro.
 
-✏️ Atualmente estou estudando Java.<br />
+✏️ I'm always studying Java.<br />
 
 Email: pedroqueir0z@outlook.com.br
