@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white[linkedIn]
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][linkedIn]
 
 Email: pedroqueir0z@outlook.com <br />
 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pedro-henrique-queiroz/)<br />
