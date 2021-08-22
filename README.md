@@ -14,4 +14,3 @@ LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pedro-henrique-queiroz/)<br 
 DockerHub: [My DockerHub](https://hub.docker.com/u/pedroqueiroz1)
 <br />
 <br />
-[linkedIn]:https://www.linkedin.com/in/pedro-henrique-queiroz/
