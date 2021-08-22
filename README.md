@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroqueiroz1&label=Profile%20views&color=0e75b6&style=flat" alt="pedroqueiroz1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroqueiroz1" alt="pedroqueiroz1" /></a> </p>
-
 - 🔭 I’m currently working on [microservices-shoppingcart](https://github.com/PedroQueiroz1/microservices-shoppingcart)
 
 - 🌱 I’m currently learning **Java, Docker, SQL, NOSQL, Heroku, etc.**
@@ -25,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroqueiroz1&show_icons=true&locale=en&layout=compact" alt="pedroqueiroz1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroqueiroz1&show_icons=true&locale=en" alt="pedroqueiroz1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroqueiroz1&" alt="pedroqueiroz1" /></p>
