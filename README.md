@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
-- ⚡ Fun fact **I love to read manga/manhwa**
+- ⚡ Fun fact **I love to listen to Lo-Fi music while studying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
