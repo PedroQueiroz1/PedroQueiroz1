@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 
-- 🔭 I’m currently ~~working on [microservices-shoppingcart](https://github.com/PedroQueiroz1/microservices-shoppingcart)~~
+- 🔭 I’m currently ~~working on [microservices-shoppingcart](https://github.com/PedroQueiroz1/microservices-shoppingcart)~~ taking a course about Java 
 
-- 🌱 I’m currently ~~learning **Java, JUnit, Docker, SQL, NOSQL, Jenkins, etc.**~~ recovering from a family loss...
+- 🌱 I’m currently learning **Java, JUnit, Docker, SQL, NOSQL, Jenkins, etc.**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
