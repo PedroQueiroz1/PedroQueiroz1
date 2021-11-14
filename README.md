@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently ~~working on [microservices-shoppingcart](https://github.com/PedroQueiroz1/microservices-shoppingcart)~~ taking courses about Java and Scrum
 
-- 🌱 I’m currently learning **Java, JUnit, Docker, SQL, NOSQL, Jenkins, etc.**
+- 🌱 I’m currently learning **Java, JUnit, Docker, SQL, NOSQL etc.**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
