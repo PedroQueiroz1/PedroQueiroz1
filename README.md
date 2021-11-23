@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 
-- 🔭 I’m currently finishing a course about Java Web Full-Stack, but my plan is to specialize in backend development.
+- 🔭 I’m currently finishing a course about Java Web Full-Stack, but my plan is to specialize in backend development (Java).
 - 🌱 I’m currently learning **Java, JUnit, Docker, SQL, NOSQL etc.**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
