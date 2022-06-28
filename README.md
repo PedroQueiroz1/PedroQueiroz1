@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
-- ⚡ Fun fact **I like Java the most, but I'm excited to learn as many programming languages as possible!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedro-henrique-queiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-queiroz" height="30" width="40" /></a>
@@ -25,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroqueiroz1&show_icons=true&locale=en" alt="pedroqueiroz1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroqueiroz1&" alt="pedroqueiroz1" /></p>
