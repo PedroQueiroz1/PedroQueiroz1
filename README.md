@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PedroQueiroz1?tab=repositories](https://github.com/PedroQueiroz1?tab=repositories)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
