@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [CRUDNodeJS](https://github.com/PedroQueiroz1/CRUDNodeJS)
+- 🔭 I’m currently working on [CRUDNodeJS2.0](https://github.com/PedroQueiroz1/CRUDNodeJs2.0)
 
 - 🌱 I’m currently learning **Node JS**
 
