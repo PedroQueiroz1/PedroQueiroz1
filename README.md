@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
