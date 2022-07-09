@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [CRUDNodeJS2.0](https://github.com/PedroQueiroz1/CRUDNodeJs2.0)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS/Javascript**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
