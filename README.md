@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 
-- 🔭 I’m currently working on [CRUDNodeJS2.0](https://github.com/PedroQueiroz1/CRUDNodeJs2.0)
+- 🔭 I’m currently working on [LearningJavascript](https://github.com/PedroQueiroz1/LearningJavascript)
 
 - 🌱 I’m currently learning **Javascript / Node JS / Typescript / HTML / CSS / Java**
 
