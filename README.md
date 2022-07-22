@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [LearningJavascript](https://github.com/PedroQueiroz1/LearningJavascript)
 
-- 🌱 I’m currently learning ** Java / Javascript / Node JS / Typescript / HTML / CSS **
+- 🌱 I’m currently learning ** Java / Javascript / Node JS / HTML / CSS / Typescript **
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
