@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [LearningJavascript](https://github.com/PedroQueiroz1/LearningJavascript)
 
-- :books: I'm currently reading "Introduction_to_Algorithms_Third_Edition - Thomas H Cormen"
+- :books: I'm currently reading **"Introduction to Algorithms Third_Edition - Thomas H Cormen"** and **"Compilers: Principles, Techniques, and Tools - Alfred V. Aho"**
 
 - 🌱 I’m currently learning **Java / Javascript / Node JS / HTML / CSS / Typescript**
 
