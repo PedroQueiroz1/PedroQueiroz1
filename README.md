@@ -4,7 +4,7 @@
 
 - :books: I'm currently reading **"Introduction to Algorithms Third_Edition - Thomas H Cormen"** and **"Compilers: Principles, Techniques, and Tools - Alfred V. Aho"**
 
-- 🌱 I’m currently learning **Design patterns / Java / Javascript / Node JS / HTML / CSS / Typescript**
+- 🌱 I’m currently learning **Java / Design patterns / HTML / CSS **
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
