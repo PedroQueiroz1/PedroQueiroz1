@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 
-- 🔭 I’m currently working on [LearningJavascript](https://github.com/PedroQueiroz1/LearningJavascript)
+- 🔭 I’m currently working on **~~Coming soon~~**
 
 - :books: I'm currently reading **"Introduction to Algorithms Third_Edition - Thomas H Cormen"** and **"Compilers: Principles, Techniques, and Tools - Alfred V. Aho"**
 
