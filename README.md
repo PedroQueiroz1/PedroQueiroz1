@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 
-- 🔭 I’m currently working on **~~Coming soon~~**
+- 🔭 I’m currently working on [Udemy Course - Java WIP](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
 
 - :books: I'm currently reading **"Introduction to Algorithms Third_Edition - Thomas H Cormen"** and **"Compilers: Principles, Techniques, and Tools - Alfred V. Aho"**
 
