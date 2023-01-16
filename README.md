@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz.</h1>
 
-- 🔭 I’m currently working on [Udemy - Java](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
+- 🔭 I’m currently working on [Udemy - Java (study project)](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
 
 - :books: I'm currently reading **"Introduction to Algorithms Third_Edition - Thomas H Cormen"** and **"Compilers: Principles, Techniques, and Tools - Alfred V. Aho"**
 
 - 🌱 I’m currently learning **Java / Design patterns / HTML / CSS**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
+
+- :pencil: Soon enough I'll organize all my projects from github.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
