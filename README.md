@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
-- ⚡ Fun fact **I'm ~~about to explode with my unorganized github~~ gradually organizing my github!**
+- ⚡ Fun fact **I have a desire to constantly learn and study!**
 
 
 <h3 align="left">Languages and Tools:</h3>
