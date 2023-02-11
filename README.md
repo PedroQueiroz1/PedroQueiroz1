@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Udemy - Java (study project)](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
 
-- 🌱 I’m currently learning **Java on Udemy and JDevTreinamentos**
+- 🌱 I’m currently learning **Java on Udemy and ~soon~ JDevTreinamentos**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
