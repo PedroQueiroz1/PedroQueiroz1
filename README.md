@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz</h1>
 <h3 align="center">A passionate backend Java developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Udemy - Java (study project)](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
+- 🔭 I’m currently working on [Udemy - Java project](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
 
 - 🌱 I’m currently learning **Java on Udemy and ~soon~ JDevTreinamentos**
 
