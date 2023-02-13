@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java on Udemy and ~soon~ JDevTreinamentos**
 
-- 📖 I'm currently reading **Introduction to Algorithms Third_Edition**
+- 📖 I'm currently reading **Introduction to Algorithms Third Edition**
 
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
