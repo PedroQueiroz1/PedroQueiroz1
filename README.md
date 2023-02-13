@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java on Udemy and ~soon~ JDevTreinamentos**
 
+- 📖 Currently reading **Introduction to Algorithms Third_Edition**
+
 - 📫 How to reach me **pedroqueir0z@outlook.com**
 
 - ⚡ Fun fact **I have a desire to constantly learn and study!**
