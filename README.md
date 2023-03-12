@@ -7,7 +7,7 @@
 
 - 📖 I'm currently reading **Introduction to Algorithms Third Edition**
 
-- 📫 How to reach me **pedroqueir0z@outlook.com**
+- 📫 How to reach me **pedroqueirozdev@outlook.com**
 
 - ⚡ Fun fact **I have a desire to constantly learn and study!**
 
