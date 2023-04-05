@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz</h1>
 <h3 align="center">A passionate backend Java developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Udemy - Java project](https://github.com/PedroQueiroz1/rest-with-spring-boot-and-java)
+- 🔭 I’m currently working on [Udemy - Testes Unitários (Unit Tests, TDD + JUnit + Mockito)](https://github.com/PedroQueiroz1/TestesUnitarios)
 
 - 🌱 I’m currently learning **Java on Udemy, 'Programa ONE Oracle Next Education' and 'Workshop Java - Sys Manager'. Soon I'll start JDevTreinamentos(Java Fullstack course)**
 
