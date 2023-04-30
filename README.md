@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Unit Tests - JUnit](https://github.com/PedroQueiroz1/TestesUnitarios)
 
-- 🌱 I’m currently learning **Java on Udemy, 'Programa ONE Oracle Next Education' and 'Workshop Java - Sys Manager'. Soon I'll start JDevTreinamentos(Java Fullstack course)**
+- 🌱 I’m currently learning **Java on Udemy, 'Programa ONE Oracle Next Education' and JDevTreinamentos(Java Fullstack course)**
 
 - 📖 I'm currently reading **Introduction to Algorithms Third Edition**
 
