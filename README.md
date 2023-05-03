@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Queiroz</h1>
 <h3 align="center">A passionate backend Java developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Unit Tests - JUnit](https://github.com/PedroQueiroz1/TestesUnitarios)
+- 🔭 I’m currently working on [Revisão de Arrays, Vetores e Matrizes Java](https://github.com/PedroQueiroz1/ArraysVetoresMatrizes)
 
 - 🌱 I’m currently learning **Java on JDevTreinamentos(Java Fullstack course), Udemy and 'Programa ONE Oracle Next Education'**
 
