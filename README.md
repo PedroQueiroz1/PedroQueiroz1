@@ -28,8 +28,11 @@
 </div>
 <br><br><br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroqueiroz1?cardType=github&theme=radical&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroQueiroz1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroQueiroz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## GitHub Activity Graph:
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedroqueiroz1&theme=radical" alt="GitHub Activity Graph" width="100%" />
