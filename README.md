@@ -1,8 +1,7 @@
 <h1 align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> Hi, welcome to my github! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /></h1>
 <br>
-<p align="center"><img alt="Night Coding" src="https://raw.githubusercontent.com/PedroQueiroz1/PedroQueiroz1/main/Night-Coding.gif"/></p>
 <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true"></p>
 
 ## Languages and Tools
 
