@@ -28,7 +28,7 @@
 </div>
 <br><br><br>
 
-[![PedroQueiroz1 Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroqueiroz1?cardType=level-alternate&theme=radical&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroqueiroz1?cardType=github&theme=radical&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## GitHub Activity Graph:
