@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Queiroz</h1>
+<h1 align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> Hi, welcome to my github! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /></h1>
 <br>
 <p align="center"><img alt="Night Coding" src="https://raw.githubusercontent.com/PedroQueiroz1/PedroQueiroz1/main/Night-Coding.gif"/></p>
 <br>
