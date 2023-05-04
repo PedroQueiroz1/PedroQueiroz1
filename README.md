@@ -28,8 +28,7 @@
 </div>
 <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroqueiroz1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroqueiroz1&layout=compact&theme=radical)](https://github.com/pedroqueiroz1/github-readme-stats)
+[![PedroQueiroz1 Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroqueiroz1?cardType=level-alternate&theme=radical&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## GitHub Activity Graph:
