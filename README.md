@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,mysql,docker,grafana,js,html,css,sass,bootstrap,postman,maven,linux,eclipse,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,mysql,postgres,docker,grafana,js,html,css,sass,bootstrap,postman,maven,linux,eclipse,vscode,netlify" />
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
@@ -15,7 +15,7 @@
 ## I'm learning  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643517522/35539/hammer_computer.gif?1643517522" alt="hammer computer" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,postgres,figma,gradle,hibernate,jenkins,jquery,mongodb,prometheus,rabbitmq," />
+    <img src="https://skillicons.dev/icons?i=angular,figma,gradle,hibernate,jenkins,jquery,mongodb,prometheus,rabbitmq," />
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
