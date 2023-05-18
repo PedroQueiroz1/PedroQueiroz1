@@ -1,7 +1,7 @@
 <h1 align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="meow code" /> Hi, welcome to my github! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="meow code" /></h1>
 <br>
 <br>
-<p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true"></p>
+<p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true" style="width:80%;height:auto;"></p>
 
 ## Languages and Tools  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515307/13263/bongocat_code.gif?1643515307" alt="bongocat code" />
 
