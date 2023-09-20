@@ -1,6 +1,4 @@
 <h1 align="center"> Hi, welcome to my github! </h1>
-<br>
-<br>
 <p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true" style="width:80%;height:auto;"></p>
 
 ## Languages and Tools  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515307/13263/bongocat_code.gif?1643515307" alt="bongocat code" />
