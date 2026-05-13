@@ -8,13 +8,16 @@
 ### ✅ Projeto completo — Anotações
 
 **Anotações** é uma aplicação de produtividade pessoal para organização de categorias, tarefas e anotações, utilizando uma arquitetura full stack com backend, frontend web e aplicativo Android. </br>
-Criado unicamente com o objetivo de me auxiliar nas anotações dos meus estudos e eu conseguir acessar elas diretamente pelo celular enquanto faço academia...
 
 <p>
   <a href="https://github.com/PedroQueiroz1/Anotacoes">
     <img src="https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge">
   </a>
 </p>
+
+**Objetivo do projeto:**
+
+Me auxiliar nas anotações dos meus estudos e eu conseguir acessar elas diretamente pelo celular enquanto faço academia...
 
 🔗 **Repositório:** [github.com/PedroQueiroz1/Anotacoes](https://github.com/PedroQueiroz1/Anotacoes)
 
