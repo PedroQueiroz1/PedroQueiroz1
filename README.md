@@ -13,9 +13,6 @@
   <a href="https://github.com/PedroQueiroz1/Anotacoes">
     <img src="https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Angular-TypeScript-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Android-Kotlin-green?style=for-the-badge">
 </p>
 
 **Principais pontos do projeto:**
@@ -40,9 +37,6 @@
   <a href="https://github.com/PedroQueiroz1/finpulse">
     <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/Finance-App-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/API-REST-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-lightgrey?style=for-the-badge">
 </p>
 
 **Objetivo do projeto:**
@@ -59,6 +53,4 @@ Projeto planejado para ser uma página pessoal de apresentação profissional, r
 
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Portfolio-Personal%20Page-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge">
 </p>
