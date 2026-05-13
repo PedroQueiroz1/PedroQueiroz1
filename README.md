@@ -1,2 +1,65 @@
 <h1 align="center"> Olá! | Hello! </h1>
 <p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true" style="width:80%;height:auto;"></p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### ✅ Projeto completo — Anotações
+
+**Anotações** é uma aplicação de produtividade pessoal para organização de categorias, tarefas e anotações, utilizando uma arquitetura full stack com backend, frontend web e aplicativo Android.
+
+<p>
+  <a href="https://github.com/PedroQueiroz1/Anotacoes">
+    <img src="https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Angular-TypeScript-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Android-Kotlin-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge">
+</p>
+
+**Principais pontos do projeto:**
+
+- API REST desenvolvida com Java e Spring Boot.
+- Integração com banco de dados MySQL.
+- Frontend web desenvolvido com Angular.
+- Aplicativo Android nativo com Kotlin.
+- CRUD de categorias, tarefas, subtarefas e anotações.
+- Regras de negócio, validações e estrutura em camadas.
+- Consumo da mesma API por múltiplas interfaces.
+
+🔗 **Repositório:** [github.com/PedroQueiroz1/Anotacoes](https://github.com/PedroQueiroz1/Anotacoes)
+
+---
+
+### 🚧 Projeto em andamento — FinPulse
+
+**FinPulse** é um projeto em desenvolvimento voltado para organização e acompanhamento financeiro, com foco em controle de dados, visão analítica e experiência de uso clara para o usuário.
+
+<p>
+  <a href="https://github.com/PedroQueiroz1/finpulse">
+    <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Finance-App-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API-REST-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-lightgrey?style=for-the-badge">
+</p>
+
+**Objetivo do projeto:**
+
+Construir uma aplicação financeira com estrutura escalável, organizada e preparada para evolução, aplicando boas práticas de backend, frontend, persistência de dados e modelagem de domínio.
+
+🔗 **Repositório:** [github.com/PedroQueiroz1/finpulse](https://github.com/PedroQueiroz1/finpulse)
+
+---
+
+### 🧭 Projeto em planejamento — Página pessoal de portfólios
+
+Projeto planejado para ser uma página pessoal de apresentação profissional, reunindo meus principais projetos, tecnologias utilizadas, links úteis e evolução como desenvolvedor.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-Personal%20Page-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge">
+</p>
