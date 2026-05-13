@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Angular-TypeScript-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Android-Kotlin-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge">
 </p>
 
 **Principais pontos do projeto:**
