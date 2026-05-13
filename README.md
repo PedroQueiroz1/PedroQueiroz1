@@ -7,7 +7,7 @@
 
 ### ✅ Projeto completo — Anotações
 
-**Anotações** é uma aplicação de produtividade pessoal para organização de categorias, tarefas e anotações, utilizando uma arquitetura full stack com backend, frontend web e aplicativo Android.
+**Anotações** é uma aplicação de produtividade pessoal para organização de categorias, tarefas e anotações, utilizando uma arquitetura full stack com backend, frontend web e aplicativo Android. </br>
 Criado unicamente com o objetivo de me auxiliar nas anotações dos meus estudos e eu conseguir acessar elas diretamente pelo celular enquanto faço academia...
 
 <p>
