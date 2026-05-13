@@ -5,7 +5,7 @@
 
 ## 🚀 Projetos em destaque
 
-### ✅ Projeto completo — Anotações
+### ✅ Projeto completo v1.0 — Anotações
 
 **Anotações** é uma aplicação de produtividade pessoal para organização de categorias, tarefas e anotações, utilizando uma arquitetura full stack com backend, frontend web e aplicativo Android. </br>
 
