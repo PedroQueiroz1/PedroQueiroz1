@@ -41,9 +41,10 @@ Construir uma aplicação financeira com estrutura escalável, organizada e prep
 
 ---
 
-### 🧭 Projeto em planejamento — Página pessoal de portfólios
+### 🧭 Projetos em planejamento — Página pessoal de portfólios e visualizador de dashboard de sistemas distribuídos
 
-Projeto planejado para ser uma página pessoal de apresentação profissional, reunindo meus principais projetos, tecnologias utilizadas, links úteis e evolução como desenvolvedor.
+1) O primeiro projeto está sendo planejado planejado para ser uma página pessoal de apresentação profissional, reunindo meus principais projetos, tecnologias utilizadas, links úteis e evolução como desenvolvedor.
+2) O segundo, vai ser um Projeto WEB sendo um visualizador/dashboard de sistemas distribuídos. Ainda estou desenvolvendo a ideia dele.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
