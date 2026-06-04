@@ -29,7 +29,7 @@ Me auxiliar nas anotações dos meus estudos e eu conseguir acessar elas diretam
 
 <p>
   <a href="https://github.com/PedroQueiroz1/finpulse">
-    <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Pausado%20temporariamente-red?style=for-the-badge">
   </a>
 </p>
 
