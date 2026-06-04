@@ -23,7 +23,25 @@ Me auxiliar nas anotações dos meus estudos e eu conseguir acessar elas diretam
 
 ---
 
-### 🚧 Projeto em andamento — FinPulse
+### 🎯 Projeto em andamento — Pix Transaction Simulator
+
+Pix Transaction Simulator é uma plataforma backend event-driven para simulação de pagamentos Pix, criada com foco em Java, Spring Boot, microserviços, mensageria, idempotência, persistência, testes automatizados, CI/CD e práticas DevSecOps.
+
+<p>
+  <a href="https://github.com/PedroQueiroz1/finpulse">
+    <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge">
+  </a>
+</p>
+
+**Objetivo do projeto:**
+
+Construir um projeto backend completo para simular fluxos críticos de pagamento Pix, aplicando Arquitetura Hexagonal, Java 17, Spring Boot 3, Kafka, Redis, SQL Server, MongoDB, JUnit, Docker, Kubernetes, Argo CD e boas práticas de segurança, idempotência e rastreabilidade.
+
+🔗 Repositório: [github.com/PedroQueiroz1/Simulador-de-pix](https://github.com/PedroQueiroz1/Simulador-de-pix)
+
+---
+
+### 🚧 Projeto pausado temporariamente — FinPulse
 
 **FinPulse** é um projeto em desenvolvimento voltado para organização e acompanhamento financeiro, com foco em controle de dados, visão analítica e experiência de uso clara para o usuário.
 
