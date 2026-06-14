@@ -64,7 +64,7 @@ Construir uma aplicação financeira com estrutura escalável, organizada e prep
 1) O primeiro projeto está sendo planejado planejado para ser uma página pessoal de apresentação profissional, reunindo meus principais projetos, tecnologias utilizadas, links úteis e evolução como desenvolvedor.
 2) O segundo, vai ser um Projeto WEB sendo um visualizador/dashboard de sistemas distribuídos. Ainda estou desenvolvendo a ideia dele.
 3) Os próximos provavelmente vão ser de simuladores de sistemas bancários focados na segurança, idempotência, utilização de Ledgers, eficiência, trade-offs das escolhas envolvidas, etc. </br>
-Quero me especializar na área de bancos/sistemas bancários.
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
 </p>
+Quero me especializar na área de bancos/sistemas bancários. Provavelmente depois de todos esses projetos estarem prontos só vou criar projetos focados para estudos de sistemas bancários.
