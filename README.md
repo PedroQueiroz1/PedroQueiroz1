@@ -67,4 +67,5 @@ Construir uma aplicação financeira com estrutura escalável, organizada e prep
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
 </p>
-Quero me especializar na área de bancos/sistemas bancários. Provavelmente depois de todos esses projetos estarem prontos só vou criar projetos focados para estudos de sistemas bancários.
+Quero me especializar na área de bancos/sistemas bancários.</br>
+Provavelmente depois de todos esses projetos estarem prontos só vou criar projetos focados para estudos de sistemas bancários.
