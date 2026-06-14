@@ -29,7 +29,7 @@ Pix Transaction Simulator é uma plataforma backend event-driven para simulaçã
 
 <p>
   <a href="https://github.com/PedroQueiroz1/finpulse">
-    <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Fase%20de%20testes-yellow?style=for-the-badge">
   </a>
 </p>
 
