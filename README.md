@@ -56,7 +56,8 @@ Construir um projeto backend completo para simular fluxos críticos de pagamento
 
 **Objetivo do projeto:**
 
-Construir uma aplicação financeira com estrutura escalável, organizada e preparada para evolução, aplicando boas práticas de backend, frontend, persistência de dados e modelagem de domínio.
+Construir uma aplicação financeira com estrutura escalável, organizada e preparada para evolução, aplicando boas práticas de backend, frontend, persistência de dados e modelagem de domínio. </br>
+Esse projeto não foi criado para funcionar 100%. É com erros propositais para eu ir encontrando e corrigindo os problemas sem pedir para a IA corrigir pra mim. Projeto feito com Spec Driven Development.
 
 🔗 **Repositório:** [github.com/PedroQueiroz1/finpulse](https://github.com/PedroQueiroz1/finpulse)
 
