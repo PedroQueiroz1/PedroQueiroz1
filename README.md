@@ -1,11 +1,6 @@
 <h1 align="center"> Oi! Bem-vindo! </h1>
 <p align="center"><img src="https://github.com/PedroQueiroz1/PedroQueiroz1/blob/main/monkey-developer.gif?raw=true" style="width:80%;height:auto;"></p>
 
-Sobre mim: </br>
-Sou desenvolvedor fullstack (mais focado no backend) e meu objetivo na carreira dev é em me especializar em sistemas bancários.</br>
-Hoje tenho experiência real de 3 anos em sistemas críticos de saúde e reembolsos.
----
-
 ## 🚀 Projetos em destaque
 
 ### ✅ Projeto completo v1.0 — Anotações
