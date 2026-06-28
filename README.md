@@ -66,5 +66,3 @@ Esse projeto não foi criado para funcionar 100%. É feito com erros propositais
 <p>
   <img src="https://img.shields.io/badge/Status-Em%20planejamento-lightgrey?style=for-the-badge">
 </p>
-Quero me especializar na área de bancos/sistemas bancários.</br>
-Provavelmente depois de todos esses projetos estarem prontos só vou criar projetos focados para estudos de sistemas bancários.
